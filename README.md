@@ -3,6 +3,8 @@
 PROJECT OBJECTIVE:
 
   1.Create GM% reports By Quaters -
+
+  
   ![Image_Alt](https://github.com/Suriyapriya-S/Excel-Finance-Analytics/blob/1b2ee7dc9e06d0b6b0402a6f4a3b5af6370d3801/Screenshot%202025-07-20%20134350.png) 
   
   2.Create  Profit and Loss (P&L) reports by Fiscal Year - 
