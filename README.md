@@ -18,24 +18,26 @@ PROJECT OBJECTIVE:
   ![Image_Alt](https://github.com/Suriyapriya-S/Excel-Finance-Analytics/blob/c7d516d64a8718c60a7c65b390e323d7ede65e06/Screenshot%202025-07-20%20135057.png)
 
   4.Create Profit and Loss (P&L) reports by Markets -
-  [https://github.com/Suriyapriya-S/Excel-Finance-Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf]
+
+
+  ![Image_Alt](https://github.com/Suriyapriya-S/Excel-Finance-Analytics/blob/e0aedf3f3e5a3bf94834b7e223843869d8563291/Screenshot%202025-07-20%20135306.png)
  
  
  PURPOSE OF FINANCE ANALYTICS:
  
-        Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+  Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
  IMPORTANCE OF ANALYZING FINANCE DATA:
  
-         Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+  Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-ROLE OF REPORTS: 
+ ROLE OF REPORTS: 
  
-        Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+   Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 TECHNICAL SKILLS:
        
-       * Core Excel Skills - Data Cleaning & Formatting, Formulas Functions, Date & Time Functions
-       * Data Analysis & Reporting - Pivot Tables & Pivot Charts, Conditional Formatting
-       * Advanced Excel Tools - Power Query (Get & Transform), Power Pivot, DAX (Data Analysis Expressions)
+   * Core Excel Skills - Data Cleaning & Formatting, Formulas Functions, Date & Time Functions
+   * Data Analysis & Reporting - Pivot Tables & Pivot Charts, Conditional Formatting
+   * Advanced Excel Tools - Power Query (Get & Transform), Power Pivot, DAX (Data Analysis Expressions)
 # Excel-Finance-Analytics
