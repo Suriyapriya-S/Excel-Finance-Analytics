@@ -13,7 +13,9 @@ PROJECT OBJECTIVE:
   ![Image_Alt](https://github.com/Suriyapriya-S/Excel-Finance-Analytics/blob/6ff9caef782be762795802ae8bba91d6fcc3fb70/Screenshot%202025-07-20%20134648.png)
 
   3.Create Profit and Loss (P&L) reports by Month -
-  [https://github.com/Suriyapriya-S/Excel-Finance-Analytics/blob/main/P%20%26%20L%20By%20Month.pdf]
+
+  
+  ![Image_Alt](https://github.com/Suriyapriya-S/Excel-Finance-Analytics/blob/c7d516d64a8718c60a7c65b390e323d7ede65e06/Screenshot%202025-07-20%20135057.png)
 
   4.Create Profit and Loss (P&L) reports by Markets -
   [https://github.com/Suriyapriya-S/Excel-Finance-Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf]
