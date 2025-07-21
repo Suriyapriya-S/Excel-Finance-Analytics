@@ -102,4 +102,4 @@ TECHNICAL SKILLS:
    * Core Excel Skills - Data Cleaning & Formatting, Formulas Functions, Date & Time Functions
    * Data Analysis & Reporting - Pivot Tables & Pivot Charts, Conditional Formatting
    * Advanced Excel Tools - Power Query (Get & Transform), Power Pivot, DAX (Data Analysis Expressions)
-# Excel-Finance-Analytics
+
