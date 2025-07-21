@@ -4,13 +4,13 @@
 
  *To create Excel reports for the company AtliQ Hardwares*:
 
-   ->.Create GM% reports By Quaters
+   -> Create GM% reports By Quaters
      
-   ->.Create  Profit and Loss (P&L) reports by Fiscal Year
+   -> Create  Profit and Loss (P&L) reports by Fiscal Year
 
-   ->.Create Profit and Loss (P&L) reports by Month
+   -> Create Profit and Loss (P&L) reports by Month
 
-   ->.Create Profit and Loss (P&L) reports by Markets
+   -> Create Profit and Loss (P&L) reports by Markets
    
    
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
